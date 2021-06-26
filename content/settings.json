@@ -1,0 +1,10 @@
+{
+  "title": "Java Docs",
+  "url": "http://localhost",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "nuxt/content",
+  "twitter": "@MGzegozevskis"
+}
