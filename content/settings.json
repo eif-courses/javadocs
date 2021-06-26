@@ -2,9 +2,8 @@
   "title": "Java Docs",
   "url": "http://localhost",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/java_docs.png",
+    "dark": "/java_docs.png"
   },
-  "github": "nuxt/content",
-  "twitter": "@MGzegozevskis"
+  "github": "eif-courses"
 }

@@ -1,27 +1,21 @@
 ---
-title: Introduction
+title: Pradžia
 description: ''
 position: 1
 category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
 
-<alert type="success">
+[Dokumentacija parengta naudojant]()  [@create-nuxt-content-docs](https://github.com/nuxt/content/tree/dev/packages/create-nuxt-content-docs).
 
-Your documentation has been created successfully!
+<alert type="info">
+
+<p class="flex items-center">Pasirinkite šviesią arba tamsią temą:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
 
 </alert>
 
-## Features
+Parengė : M. Gžegoževskis <br/> 
+El. paštas : <a href="mailto:m.gzegozevskis@eif.viko.lt">m.gzegozevskis@eif.viko.lt</a>
 
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
