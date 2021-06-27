@@ -3,6 +3,7 @@ title: Annotations ir Javadocs
 description: ''
 position: 6
 category: Sintaksė
+fullscreen: true
 ---
 
 Skyrelyje yra apžvelgiamos anotacijos jų rūšys ir paskirtis. Taip pat pateikiami įvairūs pavyzdžiai su Anotacijomis bei [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") dokumentacijos rengimu.

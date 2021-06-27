@@ -3,6 +3,8 @@ title: Regular Expressions
 description: ''
 position: 13
 category: Sintaksė
+fullscreen: true
+
 ---
 
 Reguliariosios išraiškos skirstomos į pagrindines 3 kategorijas skirtas:

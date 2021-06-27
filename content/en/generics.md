@@ -3,6 +3,7 @@ title: Generics
 description: ''
 position: 5
 category: Sintaksė
+fullscreen: true
 ---
 
 Parametrizuoti tipai netik supaprastina programų šabloninių klasių, kūrimo, bet ir atveria galimybė rašyti universalesnį programinį kodą. Tarkim turite Java kolekciją į kurią norite talpinti tam tikro tipo objektus. Jeigu toje kolekcijoje atsiranda netinkamas elementas kompiliatorius nepraneša apie klaidą nes kolekcijoje galima talpinti bet kokio tipo Object elementus. Taigi iki 1.5 JDK naudojamas "raw" tipas sukeldavo begalė problemų konvertuojant objektą iš esamos kolekcijos JVM vykdymo metu gaunant klaidos pranešimą ClassCastException. Taip pat įvedus parametrizuotus tipus nuo 1.5 JDK atvertos šios galimybės:

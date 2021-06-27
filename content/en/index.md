@@ -3,7 +3,7 @@ title: Pradžia
 description: ''
 position: 1
 category: ''
-
+fullscreen: true
 ---
 
 

@@ -3,6 +3,7 @@ title: Collections
 description: ''
 position: 4
 category: Sintaksė
+fullscreen: true
 ---
 
 

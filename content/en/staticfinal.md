@@ -3,6 +3,8 @@ title: Static ir Final
 description: ''
 position: 2
 category: Sintaksė
+fullscreen: true
+
 ---
 
 

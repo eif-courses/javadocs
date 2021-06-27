@@ -3,6 +3,7 @@ title: Exception Handling
 description: ''
 position: 3
 category: Sintaksė
+fullscreen: true
 ---
 
 Programose pasitaiko klaidų arba išimtinių situacijų. Į klaidas reikia reaguoti ir jas apdoroti/ištaisyti jeigu įmanoma. Įvairiose programavimo sistemose bei kalbose naudojamos skirtingos klaidų apdorojimo priemonės.

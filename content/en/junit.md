@@ -3,6 +3,7 @@ title: JUnit Testing
 description: ''
 position: 8
 category: Sintaksė
+fullscreen: true
 ---
 
 Vienetų testai (angl. Unit tests) - tai programinės įrangos testai, kuriuos programuotojai parašė naudodamiesi programavimo kalba ir jie turėtų būti parašyti izoliuotiems komponentams ir taip pat suteikti galimybę juos pakartotinai įvykdyti. Unit testai yra automatizuoti programų testai, tikrinantys kodo vienetus atskirai vieną nuo kito. Kiekvienas kodo vienetas (t.y. funkcija, klasė, metodas) turi savo testą ar kelis testus.

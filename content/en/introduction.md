@@ -3,6 +3,7 @@ title: Įvadas
 description: ''
 position: 2
 category: Sintaksė
+fullscreen: true
 ---
 
 

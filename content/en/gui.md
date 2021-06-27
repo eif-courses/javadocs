@@ -3,6 +3,7 @@ title: Graphical User Interface
 description: ''
 position: 10
 category: Sintaksė
+fullscreen: true
 ---
 
 Darbui su grafine sąsaja programavimo kalba [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") yra jau tapę klasika, kadangi nenuostabu, kad Web technologijos sparčiai auga ir palaiko tiek internetines aplikacijas, desktop PC, mobiliasiems prietaisams ir kitoms platformoms.Be abejo yra likusių senų projektų ar integruotų prietaisų, kur naršyklė nėra įdiegta tuo atveju grafinės sąsajos bibliotekos gali praversti ir būti, kuriama programinė įranga. Sąrašas pagrindinių grafikos bibliotekų:

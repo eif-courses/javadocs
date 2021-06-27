@@ -3,6 +3,8 @@ title: Spring Boot
 description: ''
 position: 11
 category: Sintaksė
+fullscreen: true
+
 ---
 
 Spring karkasas sudarytas iš apie 20 astkirų modulių skirtų kurti programinę įranga naudojant [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") kalbos plain old [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") objects (POJO). Tai įgalina galimybę prisitaikyti prie [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") SE modelio programavimo ir pilnai arba dalinai kuriant [JAVA](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") EE programinę įrangą skirtą įmonėms. Spring platformos/karkaso nauda:

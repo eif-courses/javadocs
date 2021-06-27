@@ -3,6 +3,8 @@ title: Lambda expressions
 description: ''
 position: 7
 category: Sintaksė
+fullscreen: true
+
 ---
 
 Lambda išraiškos (angl. lambda expressions) atsirado nuo [JDK](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=31&displayformat=dictionary "Terminų ir santrumpų žodynas: JDK") 1.8 versijos. Šis atnaujinimas įvedė į programavimo kalbą [Java](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=32&displayformat=dictionary "Terminų ir santrumpų žodynas: Java") naujų vėjų. Tai vienas iš didžiausių pokyčių per pastaruosius metus, kai 1.5 [JDK](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=31&displayformat=dictionary "Terminų ir santrumpų žodynas: JDK") buvo pasiūlytas [generic](https://vma-test.viko.lt/mod/glossary/showentry.php?eid=44&displayformat=dictionary "Terminų ir santrumpų žodynas: generic") tipas tai buvo vienas iš didžiausių pokyčių, kuris pakeitė kodo rašymo stilių. Taip pat dalis karkasų buvo perrašytų naudojant Lambda išraiškas, kad išvengtų vykdymo metu įvykstančių klaidų pvz. ClassCastException, kuri įvykdavo dėl kolekcijoje esančio elemento tipo konversijos. Kodėl Lambda išraiškos yra naudojamos?

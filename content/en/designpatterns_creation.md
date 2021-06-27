@@ -3,6 +3,7 @@ title: Objektų kūrimo
 description: ''
 position: 16
 category: Projektavimo šablonai
+fullscreen: true
 ---
 
 Šie projektavimo šablonai: Factory Pattern, Abstract Factory Pattern, Singleton Pattern, Prototype Pattern, Builder Pattern yra skirti objektams sukurti.

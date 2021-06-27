@@ -3,6 +3,7 @@ title: Įvadas
 description: ''
 position: 15
 category: Projektavimo šablonai
+fullscreen: true
 ---
 
 <p><span style="font-size: medium;">Dizaino modelis yra išbandytas sprendimas sprendžiant konkrečią problemą / užduotį.&nbsp;</span><span style="font-size: medium;">Pavyzdžiui, jei norite sukurti klasę, kuriai reikia sukurti tik vieną egzempliorių ir kad vieną objektą gali naudoti visos kitos klasės, naudokite „Singleton“ dizaino modelį.&nbsp;</span>

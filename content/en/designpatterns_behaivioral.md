@@ -3,6 +3,7 @@ title: Objektų elgsenos
 description: ''
 position: 18
 category: Projektavimo šablonai
+fullscreen: true
 ---
 
 Chain Of Responsibility Pattern, Command Pattern, Interpreter Pattern, Iterator Pattern, Mediator Pattern, Memento Pattern, Observer Pattern, State Pattern, Strategy Pattern, Template Pattern, Visitor Pattern.

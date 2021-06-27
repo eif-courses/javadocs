@@ -3,6 +3,8 @@ title: Get data from Rest API
 description: ''
 position: 12
 category: Sintaksė
+fullscreen: true
+
 ---
 
 Kaip nuskaityti  egzistuojančio Web serviso duomenis naudojant Retrofit biblioteką. Plačiau apie tai suprasite peržiūrėje vaizdo medžiagą.

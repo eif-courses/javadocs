@@ -3,6 +3,7 @@ title: Kotlin JVM Language
 description: ''
 position: 14
 category: Sintaksė
+fullscreen: true
 ---
 
 Kotlin programavimo kalba yra suderinama su įvairiauisiomis šiuolaikinėmis programavimo aplinkomis IDE. Sintaksės susipažinimui galima naudoti Kotlin online įrankį pateiktą žemiau:

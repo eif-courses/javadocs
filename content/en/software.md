@@ -3,6 +3,8 @@ title: Gradle
 description: ''
 position: 4
 category: Programinė įranga
+fullscreen: true
+
 ---
 
 Viena iš priežąsčių kodėl iš viso yra kalbama apie projekto valdymo įrankius labai paprasta. Šie įrankiai suteikia galimybę turėti scenarijaus failą, kuriame yra surašomos visos instrukcijos, kokios bibliotekų priklausomybės turi būti, kokias užduotis turime atlikti pavyzdžiui sukompiliuoti programą ir ją įvykdyti, suarchyvuoti programinį kodą ir išsiusti jo kopiją el. paštu, startuoti kokį nors servisą pvz. duomenų bazę ir pan. Projektų kūrimo ir valdymo įrankiai skirti palengvinti automatizuojant procesus, išsaugont projekto bibliotekų priklausomybių (angl. dependencies) konfigūraciją. Taip pat galimybė vykdyti įvairiausias užduotis, perpanaudoti esamus projekto šablonus, taip pasinaudojant esamais projekto programiniais kodais kuriant naujus. Pagrindiniai įrankiai, kuriuos apžvelgsime: ANT, Maven ir Gradle.
